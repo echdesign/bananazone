@@ -4,5 +4,5 @@ export const siteConfig = {
   calendlyUrl: '',
   contactEmail: '',
   // Official approved Jackpot Studios logo asset, if supplied.
-  partnerLogoUrl: '',
+  partnerLogoUrl: '/assets/jackpot-logo.avif',
 };

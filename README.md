@@ -25,7 +25,7 @@ Set the actual dark/Candy operator demo URLs, Calendly URL, contact email, and a
 
 The local concept is not the production game: three illustrative bands, fixed example multipliers, browser-generated outcomes, and demo credits only. It implements selection, a three-second confirmation window, five-second settlement, and reset. Official demos replace it when configured.
 
-The branding is a new dark/yellow interpretation, since earlier BananaZone collateral was unavailable in this chat. Partner branding is currently a text credit, not an official logo: jackpot.bet could not be accessed in this environment.
+The branding is a new dark/yellow interpretation, since earlier BananaZone collateral was unavailable in this chat. Partner branding uses the Jackpot logo supplied by the user.
 
 Public copy is drawn from MSA product scope, not private commercial terms. Certification is qualified as provider internal certification plus requirements under its Anjouan B2B licence. No external laboratory approval or fixed RTP is claimed. The under-two-week timeline supplied by the user is an operator integration target for a release-ready game, subject to readiness and approvals; the MSA separately estimates initial development at 3–5 weeks. Confirm release and certification status, territory eligibility, timeline, and partnership announcement approval before public release.
 
