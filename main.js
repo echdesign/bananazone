@@ -9,7 +9,7 @@ import { siteConfig } from './site-config.js';
 
 const arrow = '<span aria-hidden="true"><svg width="17" height="17" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.7"/></svg></span>';
 const banana = `<svg viewBox="0 0 60 60" fill="none" aria-hidden="true"><path d="M45 8c3 20-6 33-27 34-6 1-10-1-13-4 5 11 14 17 26 13C49 45 55 24 48 8Z" fill="currentColor"/><path d="m44 6 5-1 2 7-6 2Z" fill="currentColor"/><path d="M11 40c15 4 30-6 35-21" stroke="#11120f" stroke-width="2"/></svg>`;
-const brand = `<a href="/" class="brand" aria-label="BananaZone home"><img src="/assets/bananazone-logo.svg" alt="BananaZone Games" width="1038" height="380"></a>`;
+const brand = `<a href="/" class="brand" aria-label="BananaZone home"><img src="/assets/bananazone-logo.svg" alt="BananaZone Games" width="1041" height="382"></a>`;
 const partner = `<a class="partner" href="https://jackpot.bet" target="_blank" rel="noopener noreferrer" aria-label="Jackpot Studios, visit Jackpot.bet"><span class="partner-mark" aria-hidden="true">✳</span><span>JACKPOT<small>STUDIOS</small></span></a>`;
 
 function landing() {
